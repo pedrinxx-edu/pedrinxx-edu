@@ -49,8 +49,4 @@ Cada etapa fornece o insumo da seguinte. A automação torna processos reproduz�
 
 <br>
 
-<img src="assets/titulo-contato.svg" alt="Contato" width="100%">
-
-E-mail: [pherc2017@gmail.com](mailto:pherc2017@gmail.com) · LinkedIn: [linkedin.com/in/SEU-USUARIO](https://linkedin.com/in/SEU-USUARIO) · GitHub: [pedrinxx-edu](https://github.com/pedrinxx-edu)
-
 <img src="assets/footer.svg" alt="Python, Git e SQL rumo ao MLOps" width="100%">
