@@ -6,7 +6,7 @@
 
 <a href="mailto:pherc2017@gmail.com"><img src="assets/btn-email.svg" alt="E-mail" height="46"></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/SEU-USUARIO"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
+<a href="https://linkedin.com/in/pedro-henrique-eduardo?utm_source_via&utm_content=profile&utm_medium=member_android"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/pedrinxx-edu"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>
 
