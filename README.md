@@ -6,7 +6,7 @@
 
 <a href="mailto:pherc2017@gmail.com"><img src="assets/btn-email.svg" alt="E-mail" height="46"></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/pedro-henrique-eduardo?utm_source_via&utm_content=profile&utm_medium=member_android"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
+<a href="https://linkedin.com/in/pedro-henrique-eduardo"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"></a>
 &nbsp;&nbsp;
 <a href="https://github.com/pedrinxx-edu"><img src="assets/btn-github.svg" alt="GitHub" height="46"></a>
 
@@ -19,6 +19,8 @@
 Estudante de Engenharia de Software na UNICEPLAC e estagiário de Projetos e QA. Atuo na análise de sistemas e na verificação da confiabilidade de software, com foco em converter processos manuais em rotinas automatizadas e reproduzíveis.
 
 Meu objetivo de longo prazo é me tornar Engenheiro MLOps. O caminho é deliberado: automação, engenharia de dados e DevOps, nessa ordem, com cada etapa construindo a base técnica da seguinte.
+
+> **In English:** Software Engineering student and Projects & QA intern from Brazil. I build Python automations: web scraping (Scrapy, Playwright), SQLite and exports to CSV, Excel and Word. Long-term goal: MLOps, step by step through automation, data engineering and DevOps.
 
 <div align="center">
 <img src="assets/about.svg" alt="Resumo do perfil: formação, atuação, foco atual, em início e objetivo" width="78%">
@@ -43,8 +45,9 @@ Cada etapa fornece o insumo da seguinte. A automação torna processos reproduz�
 <img src="assets/titulo-projetos.svg" alt="Projetos" width="100%">
 
 <div align="center">
-<a href="https://github.com/pedrinxx-edu/controleOrcamento"><img src="assets/projeto-controleOrcamento.svg" alt="controleOrcamento: sistema de terminal para gerenciar rendas e despesas, com exportação para CSV" width="49%"></a>
-<a href="https://github.com/pedrinxx-edu/rastreadorPrecos"><img src="assets/projeto-rastreadorPrecos.svg" alt="rastreadorPrecos: automação que rastreia o histórico de preços de livros em uma página web" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/rastreador_de_promocoes"><img src="assets/projeto-rastreadorPromocoes.svg" alt="rastreador_de_promocoes: robô com Playwright que coleta promoções e salva em SQLite" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/rastreador_de_precos"><img src="assets/projeto-rastreadorPrecos.svg" alt="rastreador_de_precos: raspador com Scrapy de 1.000 livros, com filtros e exportação para Excel e Word" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/controle_de_orcamento"><img src="assets/projeto-controleOrcamento.svg" alt="controle_de_orcamento: sistema de terminal para gerenciar rendas e despesas, com exportação para CSV" width="49%"></a>
 </div>
 
 <br>
