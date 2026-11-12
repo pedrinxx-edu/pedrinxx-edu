@@ -48,6 +48,9 @@ Cada etapa fornece o insumo da seguinte. A automação torna processos reproduz�
 <a href="https://github.com/pedrinxx-edu/rastreador_de_promocoes"><img src="assets/projeto-rastreadorPromocoes.svg" alt="rastreador_de_promocoes: robô com Playwright que coleta promoções e salva em SQLite" width="49%"></a>
 <a href="https://github.com/pedrinxx-edu/rastreador_de_precos"><img src="assets/projeto-rastreadorPrecos.svg" alt="rastreador_de_precos: raspador com Scrapy de 1.000 livros, com filtros e exportação para Excel e Word" width="49%"></a>
 <a href="https://github.com/pedrinxx-edu/controle_de_orcamento"><img src="assets/projeto-controleOrcamento.svg" alt="controle_de_orcamento: sistema de terminal para gerenciar rendas e despesas, com exportação para CSV" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/estudo-de-caso-robo-kanban"><img src="assets/projeto-roboKanban.svg" alt="roboKanban: mantém o kanban de uma equipe organizado com IA, prazos e relatórios" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/gerador-de-atas"><img src="assets/projeto-geradorAtas.svg" alt="gerador-de-atas: vídeo da reunião vira ata em Word com plano de ação" width="49%"></a>
+<a href="https://github.com/pedrinxx-edu/compressor-de-video"><img src="assets/projeto-compressorVideo.svg" alt="compressor-de-video: diminui vídeos com ffmpeg em um clique" width="49%"></a>
 </div>
 
 <br>
